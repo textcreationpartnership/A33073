@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Church of England as by law established being the very doctrine and express words of the homilies against popery.</title>
+            <title>Certain sermons or homilies appointed to be read in churches. Selections.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33073</idno>
+            <idno type="STC">Wing C4191</idno>
+            <idno type="STC">ESTC R43032</idno>
+            <idno type="EEBO-CITATION">12895439</idno>
+            <idno type="OCLC">ocm 12895439</idno>
+            <idno type="VID">95167</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95167)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1713:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Church of England as by law established being the very doctrine and express words of the homilies against popery.</title>
+                  <title>Certain sermons or homilies appointed to be read in churches. Selections.</title>
+               </titleStmt>
+               <extent>4. p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Thomason,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Marginal notes.</note>
+                  <note>This item also appears as p. 27-46 of "A second five year's      struggle against popery and tyranny" edited by Samuel Johnson, and published in 1689, Wing J843, found at reel 386:10.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Church of England --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95167:1" rendition="simple:additions"/>
+            <head>THE Church of England As by LAW Eſtabliſhed: Being the very <hi>DOCTRINE</hi> and expreſs Words of the <hi>HOMILIES</hi> againſt <hi>POPERY.</hi>
+            </head>
+            <argument>
+               <p>The thirty fifth Article of the Church of <hi>England.</hi> The ſecond Book of Homilies doth contain a godly and wholſome Doctrine, and neceſſary for theſe Times; as doth the former Book of Homi<g ref="char:EOLhyphen"/>lies, which were ſet forth in time of <hi>Edward VI.</hi> And therefore we judge them to be read in Churches by the Miniſters diligently and diſtinctly, that they may be underſtood of the people. And to this the whole Clergy of <hi>England</hi> have willingly and <hi>ex animo</hi> ſubſcribed for above this hundred and twenty years, unto this very day.</p>
+            </argument>
+            <q>
+               <bibl>Homily for <hi>Witſunday,</hi> concerning the Coming down of the Holy Ghoſt in the likeneſs of cloven Tongues, <hi>p. 207.</hi>
+               </bibl>
+               <p>So that if any man be a dumb Chriſtian, not profeſſing his Faith openly, but cloaking and colouring himſelf for fear of danger in time to come, he giveth men occaſion juſtly and with good Conſcience to doubt, leſt he have not the Grace of the Holy Ghoſt within him, becauſe he is tongue-ty'd, and cannot ſpeak.</p>
+            </q>
+            <q>
+               <bibl>Vol. 1. p. 50.</bibl>
+               <p>For whoſoever forſaketh the Truth for love or diſpleaſure of any man, or for lucre and profit to himſelf, doth forſake Chriſt, and with Judas betray him.</p>
+            </q>
+            <div n="1" type="part">
+               <head>I. That Ignorance is the Mother of Popery.</head>
+               <p>BY Ignorance the <hi>Jewiſh</hi> Clergy induced the common people to ask the delivery of <hi>Barab<g ref="char:EOLhyphen"/>bas</hi> the ſeditious Murderer, and to ſue for the cruel Crucifying of our Saviour Chriſt, for that he re<g ref="char:EOLhyphen"/>buked the Ambition, Superſtition, and other Vices of the High Prieſts and Clergy.<note place="margin">
+                     <hi>p.</hi> 313. London <hi>Edition. A<hi rend="sup">o</hi>
+                     </hi> 1623.</note> For, as our Saviour Chriſt teſtifieth, that thoſe that Crucified him wiſt not what they did; ſo doth the holy Apoſtle St. <hi>Paul</hi> ſay, If they had known, if they had not been ignorant, they would never have <hi>Crucified the Lord of Glory:</hi> But they <hi>knew not what they did.</hi> Our Saviour Chriſt him<g ref="char:EOLhyphen"/>ſelf alſo foreſhewed that it ſhould come to paſs by Ig<g ref="char:EOLhyphen"/>norance, that thoſe who ſhould perſecute and murder his true Apoſtles and Diſciples, ſhould think they did God acceptable Sacrifice, and good Service; as it is al<g ref="char:EOLhyphen"/>ſo verified even at this day.</p>
+               <p>And in this Ignorance have the Biſhops of <hi>Rome</hi> kept the people of God, eſpecially the common ſort, by no means ſo much as by withdrawing of the Word of God from them, and by keeping it under the Vail of an unknown ſtrange Tongue. For, as it ſerved the ambitious humour of the Biſhops of <hi>Rome,</hi> to compel all Nations to uſe the natural Language of the City of <hi>Rome,</hi> where they were Biſhops, which ſhewed a cer<g ref="char:EOLhyphen"/>tain acknowledging of Subjection unto them; So yet ſerved it much more their crafty purpoſe, thereby to keep all people ſo blind, that they not knowing what they prayed, what they believed, nor what they were commanded by God, might take all their Command<g ref="char:EOLhyphen"/>ments for God's. For as they would not ſuffer the Ho<g ref="char:EOLhyphen"/>ly Scriptures, or Church-Service to be uſed or had in any other Tongue than the <hi>Latin;</hi> ſo were very few even of the moſt ſimple people, taught the Lord's Pray<g ref="char:EOLhyphen"/>er, the Articles of the Faith, and the ten Command<g ref="char:EOLhyphen"/>ments, otherwiſe than in <hi>Latin,</hi> which they underſtood not: By which univerſal Ignorance all men were ready to <hi>believe</hi> whatſoever they ſaid, and to <hi>do</hi> whatſoever they commanded.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. The pretended Reaſons for denying the People the free uſe of the Holy Scriptures.</head>
+               <p>The great Utility and Profit that Chriſtian Men and Women may take, (if they will) by hearing and read<g ref="char:EOLhyphen"/>ing the Holy Scriptures, no Heart can ſufficiently con<g ref="char:EOLhyphen"/>ceive; <note place="margin">p. 143</note> much leſs is my Tongue able with words to ex<g ref="char:EOLhyphen"/>preſs: wherefore Satan our enemy ſeeing the Scriptures to be the very means, and right way to bring the people to the true knowledge of God, and that Chriſtian Re<g ref="char:EOLhyphen"/>ligion is greatly furthered by diligent hearing and read<g ref="char:EOLhyphen"/>ing of them; he alſo percieving what an hindrance and let they be to him and his Kingdom, doth what he can to drive the reading of them out of God's Church. And for that end he hath alwayes ſtirred up in one place or other cruel Tyrants, ſharp Perſecutors, and extream Enemies unto God, and his infallible Truth, to pull with violence the Holy Bibles out of the peoples hands, and have moſt ſpightfully deſtroyed and conſumed the ſame to aſhes in the Fire; pretending moſt untruly, that the much hearing and reading of Gods Word is the cauſe of Hereſie, carnal Liberty, and the Subverſion of all good Orders. But the knowledge of God and of our ſelves is ſo far from being an occaſion of Evil, that it is the readieſt, yea the only means to bri<g ref="char:EOLhyphen"/>dle carnal Liberty, and to kill all our fleſhly affections. And the ordinary way to attain this knowledge, is, with diligence to hear and read the Holy Scriptures.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. Concerning the ſingular Profitableneſs of Lay-men's Books, which with them do ſupply the place of the Holy Scriptures.</head>
+               <p>For what Leſſons of Contempt of Riches, and Va<g ref="char:EOLhyphen"/>nity of this World can ſuch books, ſo beſmeared with Gold, ſet with precious Stones, covered with Silks, teach? What Leſſons of Soberneſs and Chaſtity can our <note place="margin">p. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3.</note> Women learn of thoſe pictur'd Scriptures, with their nice Apparel and wanton looks? But away for ſhame with theſe colour'd Cloaks of Idolatry, of the Books and Scriptures of Images, and Pictures, to teach Idiots, nay, to make Idiots, and ſtark fools and Beaſts of Chri<g ref="char:EOLhyphen"/>ſtians. Do men, I pray you, when they have the ſame Books at home with them, run on Pilgrimage to ſeek like Books at <hi>Rome, Compoſtella</hi> or <hi>Jeruſalem,</hi> to be taught of them, when they have the ſame Books at home? Do men reverence ſome Books, and deſpiſe and ſet light by others of the ſame ſort? Do men kneel before their Books, light Candle at Noon-time, burn Incenſe, offer up Gold and Silver, and other Gifts to their Books? do men either feign or believe Miracles to be wrought by their Books? I am ſure that the new Teſta<g ref="char:EOLhyphen"/>ment of our Saviour Jeſus Chriſt, containing the Word of Life, is a more lively, expreſs and true Image of our Saviour, than all carved, graven, molten and painted Images in the World be; and yet none of all theſe things
+<pb n="2" facs="tcp:95167:2"/>be done to that Book, or Scripture of the Goſpel of our Saviour, which be done to Images and pictures, the <hi>Books</hi> and <hi>Scriptures</hi> of Lay-men and Idiots, as they call them. Wherefore, call them what they liſt, it is moſt evident by their deeds, that they make of them no other Books, nor Scripture, than ſuch as teach moſt filthy and horrible Idolatry; as the uſers of ſuch Books daily prove by continual practiſing the ſame. O Books and Scriptures, in the which the Deviliſh School-maſter Sa<g ref="char:EOLhyphen"/>tan hath penn'd the lewd Leſſons of wicked Idolatry, for his daſtardly Diſciples and Schollars to behold, read and learn; to God's moſt high diſhonour, and their moſt horrible Damnation. Have not we been much bound, think you, to thoſe which ſhould have taught us the Truth out of God's Book, and his holy Scripture, that they have ſhut up that Book and Scripture from us, and none of us ſo bold as once to open it or read on it? and inſtead thereof, to ſpread us abroad theſe goodly, carven, and gilten Books, to teach us ſuch good and godly Leſſons?</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. Concerning the right uſe of Churches, and the groſs abuſes of them under Popery.</head>
+               <p>And have not the Chriſtians of late dayes, and even in our dayes alſo, in like manner provoked the Diſplea<g ref="char:EOLhyphen"/>ſure and Indignation of Almighty God? partly becauſe they have profaned and defiled their Churches with Heatheniſh and <hi>Jewiſh abuſes;</hi> with Images and Idols, with numbers of Altars, too too ſuperſtitiouſly and in<g ref="char:EOLhyphen"/>tollerably abuſed, with groſs abuſing, and filthy cor<g ref="char:EOLhyphen"/>rupting of the Lord's Holy Super, the bleſſed Sacra<g ref="char:EOLhyphen"/>ment of his Body and Blood, with an infinite number <note place="margin">p. 131.</note> of Toyes and Trifles of their own devices, to make a goodly outward ſhew, and to deface the plain, ſimple and ſincere Religion of Chriſt Jeſus: Partly they reſort to the Church, like Hypocrites, full of all Iniquity and ſinful Life, having a vain and dangerous fancy and per<g ref="char:EOLhyphen"/>ſwaſion, that if they come to the Church, beſprinkle them with Holy Water, hear a Maſs, and be bleſs'd with the Chalice, though they underſtand not one word of the whole Service, nor feel one motion of Repentance in their Hearts, all is well, all is ſure. Fie upon ſuch mocking and blaſpheming of God's holy Ordinance. Churches were made for another purpoſe; that is, to reſort thither, and to ſerve God truly, there to learn his bleſſed Will, there to call upon his mighty Name, there to uſe the holy Sacraments, there to travel how to be in Charity with thy Neighbour, there to have thy poor and needy Neighbour in remembrance, from thence to depart better and more godly than thou came<g ref="char:EOLunhyphen"/>eſt thither.</p>
+               <p>What Dens of Thieves the Churches of <hi>England</hi> have been made by the blaſphemous buying and ſelling the <note place="margin">p. 80.</note> moſt precious <hi>Body</hi> and <hi>Blood</hi> of Chriſt in the Maſs, as the World was made to believe, at Dirigies, at Month's Minds, at Trentals, in Abbeys and Chantries, beſides other horrible abuſes (God holy Name be bleſſed for ever.) which we now ſee and underſtand. All theſe Abomi<g ref="char:EOLhyphen"/>nations they that ſupply the room of Chriſt, have clean<g ref="char:EOLhyphen"/>ſed and purged the Churches of <hi>England</hi> of, taking away all ſuch fulſomneſs and filthineſs, as through blind Devotion, and Ignorance hath crept into the Church theſe many hundred years. Wherefore, O ye good Chriſtian people, ye dearly beloved in Chriſt Jeſus, ye that glory not in worldly and vain Religion, in phanta<g ref="char:EOLhyphen"/>ſtical adorning and decking; but rejoyce in heart to ſee the Glory of God truly ſet forth, and the Churches re<g ref="char:EOLhyphen"/>ſtored to their ancient and godly uſe; render your hearty thanks to the goodneſs of Almighty God, who hath in our dayes ſtirred up the hearts, not only of his godly Preachers and Miniſters, but alſo of his faithful and moſt Chriſtian Magiſtrates and Governours, to bring ſuch godly things to paſs.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V. Concerning Prayer in an unknown Tongue.</head>
+               <p>Firſt, St. <hi>Paul</hi> to the <hi>Corinthians</hi> ſaith; <hi>Let all be done to edifying;</hi> which cannot be unleſs common Prayers <note place="margin">p. 137.</note> and Adminiſtration of Sacraments be in a tongue known to the people: For, ſaith St. <hi>Paul, He that ſpeaketh in a tongue unknown, ſhall be to the bearers an Alien,</hi> which in a Chriſtian Congregation is a great Abſurdity.</p>
+               <p>As touching the times before the coming of Chriſt, there was never man yet that would affirm, that either the people of God, or other had their Prayers, and Adminiſtration of the Sacraments, or Sacrifices, in a tongue that they themſelves underſtood not. As for <note place="margin">p. 138.</note> the time ſince Chriſt, till that uſurped Power of <hi>Rome</hi> began to ſpread it ſelf, and to enforce all the Nations of <hi>Europe</hi> to have the <hi>Romiſh</hi> Language in admiration; it appeareth by the conſent of the moſt ancient and learn<g ref="char:EOLhyphen"/>ed Writers, that there was no ſtrange or unknown Tongue uſed in the Congregation of Chriſtians.</p>
+               <p>St. <hi>Auſtin</hi> writing upon the eighteenth Pſalm, ſaith, what this ſhould be, we ought to underſtand, that we may ſing with reaſon of man, and not with chattering <note place="margin">p. 139.</note> of Birds. For Owls, Popinjayes, Ravens, Pyes and o<g ref="char:EOLhyphen"/>ther ſuch like Birds are taught by men to prate they know not what: but to ſing with underſtanding is gi<g ref="char:EOLhyphen"/>ven by Gods Holy Will to the nature of man.</p>
+               <p>Let us therefore conclude with God and all good mens Aſſent, that no Common-Prayer or Sacraments ought to be Miniſtred in a Tongue that is not under<g ref="char:EOLhyphen"/>ſtood <note place="margin">p. <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> of the Hearers.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. Againſt Invocation of Saints or Angels, and that Prayer ought to be made and directed to God alone.</head>
+               <p>But that the truth hereof may the better appear, even to them that be moſt ſimple and unlearned, let <note place="margin">p. 114.</note> us conſider What Prayer is: St. <hi>Auſtin</hi> calleth it a lift<g ref="char:EOLhyphen"/>ing up of the the mind to God. <hi>Iſidorus</hi> ſaith, that it is an affection of the heart, and not a labour of the Lips.</p>
+               <p>Now then, is there any Angel, any Virgin, any Pa<g ref="char:EOLhyphen"/>triarch or Prophet among the Dead, that can under<g ref="char:EOLhyphen"/>ſtand, or know the meaning of the heart? The Scrip<g ref="char:EOLhyphen"/>ture ſaith, It is God that ſearcheth the heart and the reins, and that he only knoweth the hearts of the chil<g ref="char:EOLhyphen"/>dren of men; as for the Saints, they have ſo little know<g ref="char:EOLhyphen"/>ledge of the ſecrets of the heart, that many of the An<g ref="char:EOLhyphen"/>cient Fathers greatly doubt, whether they know any thing at all that is commonly done on earth. And al<g ref="char:EOLhyphen"/>beit ſome think they do, yet St. <hi>Auguſtine</hi> a Doctor of great authority, and alſo antiquity, hath this opinion of them: that they know no more what we do on earth, than we know what they do in Heaven. For proof whereof he alledgeth the words of <hi>Iſaiah</hi> the Prophet, where it is ſaid, <hi>Abraham is ignorant of us, and Iſrael knoweth us not.</hi>
+                  <note place="margin">
+                     <hi>Eſa.</hi> 63.</note>
+               </p>
+               <p>Thus you ſee, That the authority both of the Scrip<g ref="char:EOLhyphen"/>ture, and alſo of <hi>Auguſtine,</hi> doth not permit that we ſhould pray unto them. O that all men would ſtudiouſly read and ſearch the Scriptures, then ſhould they not be drowned in Ignorance, but ſhould eaſily perceive the <note place="margin">p. 115.</note> Truth, as well of this point of Doctrine as of all the reſt. For there doth the Holy Ghoſt plainly teach us, that Chriſt is our onely Mediatour and Interceſſor with God, and that we muſt not ſeek and run to another.</p>
+               <p>Let us not therefore any thing miſtruſt Gods good<g ref="char:EOLhyphen"/>neſs, Let us not fear to come before the Throne of his Mercy, let us not ſeek the aid and help of Saints; but <note place="margin">p. 117.</note> let us come boldly our ſelves, nothing doubting but God for Chriſts ſake, in whom he is well pleaſed, will hear us without a ſpokeſ-man.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII. Againſt the Doctrine of Merit.</head>
+               <p>But this ſaying, That we be juſtified by Faith only, freely, and without works, is ſpoken for to take away clearly all merit of our works, as being unable to de<g ref="char:EOLhyphen"/>ſerve our Juſtification at God hands, and thereby moſt plainly to expreſs the weakneſs of man, and the good<g ref="char:EOLhyphen"/>neſs of God; the imperfectneſs of our own works, and the moſt abundant Grace of our Saviour Chriſt;<note place="margin">
+                     <hi>Vol.</hi> 1. <hi>p.</hi> 16.</note> and therefore wholly to aſcribe the Merit and deſerving of our Juſtification unto Chriſt only, and his moſt preci<g ref="char:EOLhyphen"/>ous blood ſhedding. This Faith the Holy Scripture teacheth us, this is the ſtrong Rock and Foundation of Chriſtian Religion; this Doctrine all old and Ancient Authors of Chriſts Church do approve, this Doctrine advanceth and ſetteth forth the true Glory of Chriſt, and beateth down the vain Glory of Man; this whoſo<g ref="char:EOLhyphen"/>ever denyeth is not to be accounted for a Chriſtian Man,
+<pb n="3" facs="tcp:95167:2"/>nor for a ſetter forth of Chriſts Glory; but for an Adver<g ref="char:EOLhyphen"/>ſary to Chriſt and his Goſpel, and for a ſetter forth of mens vain glory.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII. Concerning Religious Orders, as they call them<g ref="char:EOLhyphen"/>ſelves, or Phariſaical Sects by Antichriſt invented, as the Homily calls them, and con<g ref="char:EOLhyphen"/>cerning their Merits and works of Superero<g ref="char:EOLhyphen"/>gation.</head>
+               <p>Sects and feigned Religions were never the fortieth part So many among the <hi>Jews,</hi> nor more Superſtiti<g ref="char:EOLhyphen"/>ouſly and ungodly abuſed, than of late days they have been among us. Which Sects and Religions had ſo ma<g ref="char:EOLhyphen"/>ny hypocritical and feigned works in their State of Re<g ref="char:EOLhyphen"/>ligion (as they arrogantly named it) That their Lamps (as they ſaid) ran always over, able to ſatisfie not on<g ref="char:EOLhyphen"/>ly for their own Sins,<note place="margin">
+                     <hi>l.</hi> 1. <hi>p.</hi> 36.</note> but alſo for all other their bene<g ref="char:EOLhyphen"/>factors Brothers and Siſters of Religion, as moſt ungod<g ref="char:EOLhyphen"/>lily and craftily they had perſwaded the multitude of Ignorant People; keeping in divers places as it were Marts or Markets of Merits being full of their Holy Re<g ref="char:EOLhyphen"/>liques, Images, Shrines, and works of overflowing abun<g ref="char:EOLhyphen"/>dance ready to be ſold. And all things which they had were called Holy, Holy Cowles, Holy Girdles, Holy Pardons, Beads, Holy Shoes, Holy Rules, and all full of Holineſs. But to paſs over the innumerable Super<g ref="char:EOLhyphen"/>ſtitiouſneſs that hath been in ſtrange-Apparel, in Silence, in Dormitory, in Cloyſter, in Chapter, in choice of Meats and Drinks, and in ſuch like things, let us conſi<g ref="char:EOLhyphen"/>der what Enormities and Abuſes have been in the three chief principal Points, which they called the three Eſ<g ref="char:EOLhyphen"/>ſentials, or three chief Foundations of Religion, That is to ſay, Obedience, Chaſtity and wilful Poverty.</p>
+               <p>Firſt under pretence or Colour of Obedience to their Father in Religion (which Obedience they made them<g ref="char:EOLhyphen"/>ſelves) they were made free by their Rule and Canons from the Obedience of their natural Father and Mother, and from the Obedience of Emperour and King and all Temporal Power; whom of very duty by Gods Laws they were bound to obey. And ſo the profeſſion of their obedience not due was a forſaking of their due obedi<g ref="char:EOLhyphen"/>ence. And how their profeſſion of Chaſtity was kept it is more honeſty to paſs over in ſilence, and let the World judge of that which is well known, than with unchaſt words, by expreſſing of their unchaſt Life, to offend chaſt and godly Ears. And as for their wilful poverty, it was ſuch, that when in Poſſeſſions, Jewels, Plate and Riches, they were equal or above Merchants, Gentlemen, Barons, Earls and Dukes: yet by this ſub<g ref="char:EOLhyphen"/>til Sophiſtical term <hi>Proprium in Commune,</hi> That is to ſay, Proper in Common, they mocked the World, perſwa<g ref="char:EOLhyphen"/>ding that notwithſtanding all their Poſſeſſions and Riches yet they kept their Vow and were in wilful Poverty.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX. That the Maſs is a groſs, Idolatrous and mum<g ref="char:EOLhyphen"/>miſh Abuſe of the Lord's Supper.</head>
+               <p>But before all other things this we muſt be ſure of <note place="margin">p. 198.</note> eſpecially, that this Supper be in ſuch wiſe done and mi<g ref="char:EOLhyphen"/>niſtred, as our Lord and Saviour did and commanded to be done, as his holy Apoſtles uſed it, and the good Fa<g ref="char:EOLhyphen"/>thers in the primitive Church frequented it. We muſt then take heed, leſt of the memory, it be made a Sacri<g ref="char:EOLhyphen"/>fice; leſt of a Communion, it be made a private eating; leſt of two parts we have but one; leſt applying it for the dead, we loſe the fruit that be alive. Let us rather in theſe matters follow the Advice of <hi>Cyprian</hi> in the like caſes; that is, cleave faſt to the firſt beginning, hold faſt the Lord's Tradition, do that in the Lord's Comme<g ref="char:EOLhyphen"/>moration which he himſelf did, he himſelf commanded, and his Apoſtles confirmed. This caution or foreſight if we uſe, then may we ſee thoſe things that be requi<g ref="char:EOLhyphen"/>ſite in the worthy Receiver; whereof this was the firſt, that we have a right underſtanding of the thing it ſelf.</p>
+               <p>For what hath been the cauſe of the ruine of God's Religion, but the ignorance hereof? What hath been <note place="margin">p. 99.</note> the cauſe of this groſs Idolatry, but the ignorance here<g ref="char:EOLhyphen"/>of? What hath been the cauſe of this mummiſh Maſs<g ref="char:EOLhyphen"/>ing, but the ignorance hereof?</p>
+            </div>
+            <div n="10" type="part">
+               <head>X. What kind of Power the Pope's is, and that therefore we ought not to ſubmit to it.</head>
+               <p>Therefore let us all fear the moſt deteſtable vice of Rebellion, ever knowing and remembring that he that reſiſteth or withſtandeth Common Authority reſiſteth or withſtandeth God and his Ordinance,<note place="margin">
+                     <hi>Vol.</hi> 1. <hi>p.</hi> 76.</note> as it may be proved by many other more places of the Holy Scrip<g ref="char:EOLhyphen"/>ture. And here let us take heed, that we underſtand not theſe or ſuch other like places (which ſo ſtraightly command Obedience to Superiours, and ſo ſtraightly puniſhed Rebellion and Diſobedience to the ſame) to be meant in any condition of the pretended or coloured Power of the Biſhop of <hi>Rome.</hi> For truly the Scripture of God alloweth no ſuch uſurped power, full of Enor<g ref="char:EOLhyphen"/>mities, Abuſions, and Blaſphemies.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI. That the Papiſts worſhip a vaſt number of falſe Gods.</head>
+               <p>And for that Idolatry ſtandeth chiefly in the mind <note place="margin">p. 46.</note> it ſhall in this part firſt be proved, that our Image maintainers have had, and have the ſame Opinions and Judgment of Saints, whoſe Images they have made and worſhipped, as the <hi>Gentiles</hi> Idolaters had of their Gods. What I pray you be ſuch Saints with us to whom we Attribute the defence of certain Countreys, but <hi>Dij tu<g ref="char:EOLhyphen"/>telares</hi> of the <hi>Gentiles</hi> Idolaters? What be ſuch Saints to whom the ſafeguard of certian Cities are appointed, but <hi>Dij Preſides</hi> with the <hi>Gentiles</hi> Idolaters? What be ſuch Saints to whom contrary to the uſe of the Primi<g ref="char:EOLhyphen"/>tive Church, Temples and Churches be builded, and Altars erected, but <hi>Dij Patroni</hi> of the <hi>Gentiles</hi> Idola<g ref="char:EOLhyphen"/>ters? <hi>Oenomaus</hi> and <hi>Hiſiodus</hi> ſhew, that in their time there were thirty thouſand Gods; I think we had no fewer Saints to whom we gave the honour due to God.</p>
+               <p>Every Artificer and Profeſſion hath his ſpecial Saint as a peculiar God: As for example, Scholars have Saint <hi>Nicholas</hi> and St. <hi>Gregory,</hi> Painters St. <hi>Luke,</hi> neither <note place="margin">p. 47.</note> lack Souldiers their <hi>Mars,</hi> nor Lovers their <hi>Venus</hi> a<g ref="char:EOLhyphen"/>mongſt Chriſtians. All diſeaſes have their ſpecial Saints as Gods the curers of them. The Pox Saint <hi>Roch,</hi> the falling Evil, St. <hi>Cornelis,</hi> The Toothach, St. <hi>Appolin, &amp;c.</hi> Neither do Beaſts and Cattle lack their Gods with us, for St. <hi>Loy</hi> is the <hi>Horſe-leach,</hi> and St. <hi>Anthony</hi> the <hi>Swineheard,</hi> &amp;c.</p>
+               <p>Theſe things are not written to any reproach of the Saints themſelves, who were the true Servants of God, and did give all honour to him, taking none unto themſelves, and are bleſſed Souls with God: but a<g ref="char:EOLhyphen"/>gainſt our fooliſhneſs and wickedneſs, making of the true Servants of God, falſe Gods, by attributing to them the power which is Gods, and due to him only. And for that we have ſuch Opinions of the power and rea<g ref="char:EOLhyphen"/>dy help of Saints, all our Legends, Hymns, Sequences, and Maſſes, did contain Stories, Lauds and Praiſes of <note place="margin">p. 48.</note> them, and Prayers to them; yea, and Sermons alſo altogether of them, and to their praiſes, Gods word being clean laid aſide: And this we do altogether a<g ref="char:EOLhyphen"/>greeable to the Saints, as did the Gentile Idolaters to their falſe Gods. For theſe Opinions which men have had of mortal perſons, were they never ſo holy, the old moſt godly and learned Chriſtians have written againſt the feigned Gods of the Gentiles, and Chri<g ref="char:EOLhyphen"/>ſtian Princes have deſtroyed their Images, who if they were now living, would doubtleſs likewiſe both write againſt our falſe Opinions of Saints, and alſo deſtroy their Images. For it is evident, that our Image main<g ref="char:EOLhyphen"/>tainers have the ſame Opinion of Saints, which the Gentiles had of their falſe Gods, and thereby are mo<g ref="char:EOLhyphen"/>ved to make them Images, as the Gentiles did.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII. Concerning Popiſh Reliques.</head>
+               <p>But in this they paſs the folly and wickedneſs of the Gentiles, that they honour and worſhip the Reliques and Bones of our Saints, which prove that they be mortal men and dead, and therefore no Gods to be worſhipped, which the Gentiles would never confeſs of their Gods for very ſhame. But the Reliques we muſt Kiſs and Offer to, eſpecially on <hi>Relique-Sunday.</hi> 
+                  <note place="margin">p. 53.</note>
+                  <pb n="4" facs="tcp:95167:3"/>And while we offer (that we ſhould not be weary, or repent us of our Coſt) the Muſick and Minſtrelſie go<g ref="char:EOLhyphen"/>eth merrily all the Offertory time, with praiſing and calling upon thoſe Saints whoſe Reliques be then in preſence; yea, and the water alſo wherein thoſe Re<g ref="char:EOLhyphen"/>liques have been dipped, muſt with great reverence be reſerved as very holy and effectual. Is this agreeable to <hi>Chryſoſtome,</hi> who writeth thus of Reliques? Do not re<g ref="char:EOLhyphen"/>gard the Aſhes of Saints Bodies, nor the Reliques of their Fleſh and Bones conſumed with time: But open the Eyes of thy faith, and behold them cloathed with heavenly vertue, and the Grace of the Holy Ghoſt, and ſhining with the brightneſs of the heavenly Light. But our Idolaters found too much advantage of Reliques and Relique water to follow St. <hi>Chryſoſtome</hi>'s Council. And becauſe Reliques were ſo gainful, few places were there, but they had Reliques provided for them. And for more plenty of Reliques, ſome one Saint had ma<g ref="char:EOLhyphen"/>ny Heads, one in one place, and another in another place; ſome had ſix Arms and Twenty ſix Fingers. And whereas our Lord bare his Croſs alone, if all the pieces of the Reliques thereof were gathered together, the greateſt Ship in <hi>England</hi> would ſcarcely bear them; and yet the greateſt part of it (they ſay) doth yet re<g ref="char:EOLhyphen"/>main in the hands of the Infidels, for the which they pray in their Beads bidding, that they may get it alſo into their hands for ſuch godly uſe and purpoſe. And not only the Bones of the Saints, but every thing ap<g ref="char:EOLhyphen"/>pertaining to them was an holy Relique. In ſome place they offer a Sword, in ſome the Scabbard, in ſome a Shoe, in ſome a Saddle that had been ſet up<g ref="char:EOLhyphen"/>on ſome holy Horſe; in ſome the Coals wherewith St. <hi>Lawrence</hi> was roaſted; in ſome the Tail of the Aſs which our Lord Jeſus Chriſt ſate on, to be kiſſed and offered unto for a Relique: For rather than they would lack a Relique, they would offer you a Horſe bone inſtead of a Virgins Arm, or the Tail of the Aſs to be kiſſed and offered unto for Reliques. O wicked, Impudent and moſt ſhameleſs men, the deviſers of theſe things; O ſilly, fooliſh and daſtardly Daws, and more beaſtly than the Aſs whoſe Tail they kiſſed, that believe ſuch things. Now God be merciful to ſuch ſilly Chriſtians, who by the fraud and falſehood of thoſe which ſhould have taught them the way of truth and life, have been made not only more wicked than the Gentile Idolaters, but alſo no wiſer than Aſſes, Horſes and Mules, which have no underſtanding.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII. Concerning Image Worſhip.</head>
+               <p>True Religion then, and pleaſing of God ſtandeth not in Making, Settting up, Painting, Gilding, Cloath<g ref="char:EOLhyphen"/>ing <note place="margin">p. 74.</note> and Decking of dumb and dead Images, (which be but great Puppets and Babies for old fools in Doat<g ref="char:EOLhyphen"/>age and wicked Idolatry to dally and play with) nor in Kiſſing of them, Caping, Kneeling, Offering to them, incenſing of them, ſeting up of Candles, hanging up Legs, Arms, or whole Bodies of wax before them, or Praying and aſking of them, or of Saints, things only belonging to God to give. But all theſe things be vain and abominable, and moſt damnable before God: For ye have heard evidently proved in theſe Homilies a<g ref="char:EOLhyphen"/>gainſt Idolatry, by Gods Word, the Doctors of the Church, Eccleſiaſtical Hiſtories, Reaſon and Experi<g ref="char:EOLhyphen"/>ence, that Images have been, and be worſhiped, and ſo Idolatry committed to them by infinite multitudes, to the great Offence of Gods Majeſty, and danger of infinite Souls; and that Idolatry cannot poſſibly be ſe<g ref="char:EOLhyphen"/>perated from Images ſet up in Churches and Tem<g ref="char:EOLhyphen"/>ples, <note place="margin">p. 75.</note> gilded and decked gloriouſly, and that therefore our Images be indeed very Idols, and ſo all the Prohi<g ref="char:EOLhyphen"/>bitions, Laws, Curſes, Threatnings of horrible Plagues, as well temporal as eternal, contained in the holy Scrip<g ref="char:EOLhyphen"/>tures, concerning Idols, and the Makers, and Main<g ref="char:EOLhyphen"/>tainers, and Worſhippers of them, appertain alſo to our Images ſet up in Churches and Temples, and to the Makers, Maintainers, and Worſhippers of them; and all thoſe Names of Abomination, which Gods Word in the holy Scriptures giveth to the Idols of the Gen<g ref="char:EOLhyphen"/>tiles, appertain to our Images, being Idols like to them, and having like Idolatry committed unto them.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV. What <g ref="char:V">Ʋ</g>ſe the Church of <hi>Rome</hi> makes of her gay Imagery.</head>
+               <p>Now concerning exceſſive decking of Images and Idols with Painting, Gilding, Adorning with precious Veſtures, Pearl and Stone, what is it elſe, but for the further provocation and enticement to ſpiritual forni<g ref="char:EOLhyphen"/>cation, to deck ſpiritual Harlots moſt coſtly and wan<g ref="char:EOLhyphen"/>tonly, <note place="margin">p. 69.</note> which the Idolatrous Church underſtandeth well enough? For ſhe being indeed not only a Harlot, (as the Scripture calleth her) but alſo a foul, filthy old withered Harlot (for ſhe is indeed of ancient years) and underſtanding her lack of nature and true Beauty, and great loathſomneſs which of her ſelf ſhe hath, doth after the cuſtome of ſuch Harlots, Paint her ſelf, and Deck and Attire her ſelf with Gold, Pearl, Stone, and all kind of precious Jewels, that ſhe ſhining with the outward Beauty and glory of them, may pleaſe the fooliſh fancy of fond Lovers, and ſo entice them to ſpiritual Fornication with her; who if they ſaw her (I will not ſay naked) but in ſimple Apparel, would ab<g ref="char:EOLhyphen"/>hor her as the fouleſt and filthieſt Harlot that ever was ſeen, according as appeareth by the deſcription of the garniſhing of the great Strumpet of all Strumpets, the Mother of Whoredome, ſet forth by Saint <hi>John</hi> in his <note place="margin">ch. 17.</note> 
+                  <hi>Revelation,</hi> who by her glory provoked the Princes of the earth to commit Whoredom with her.</p>
+            </div>
+            <div n="15" type="part">
+               <head>XV. Concerning the opening of Shop, and publick ſet<g ref="char:EOLhyphen"/>ing up of Images.</head>
+               <p>It is the Office of Godly Magiſtrates likewiſe to a<g ref="char:EOLhyphen"/>void Images and Idols out of Churches and Tem<g ref="char:EOLhyphen"/>ples, as ſpiritual Harlots out of ſuſpected places, for <note place="margin">p. 62, 63</note> the avoiding of Idolatry, which is ſpiritual Fornication. And as he were the Enemy of all Honeſty, that ſhould bring Strumpets and Harlots out of their ſecret corners into the publique Market place, there freely to dwell, and practice their filthy Merchandize, ſo is he the Ene<g ref="char:EOLhyphen"/>my of the true worſhiping of God, that bringeth Idols and Images into the Temple and Church, the Houſe of God, there openly to be worſhiped, and to rob the Jealous God of his Honour, who will not give it to any other, nor his glory to carved Images, who is as much forſaken, and the bond of love between man and him as much broken by Idolatry, which is ſpiri<g ref="char:EOLhyphen"/>tual Fornication, as is the knot and bond of Marriage broken by carnal Fornication. Let all this be taken as a Lye, if the Word of God inforce it not to be true. <hi>Curſed be the man</hi> (ſaith God in <hi>Deuteronomy</hi>) <hi>that ma<g ref="char:EOLhyphen"/>keth a carved or molten Image, and placeth it in a ſecret corner; and all the people ſhall ſay,</hi> Amen. Thus ſaith God, for at that time no man durſt have, or Worſhip Images openly, but in corners only; and the whole World being the great Temple of God, he that in any corner thereof robbeth God of his glory, and giveth it to Stocks and Stones, is pronounced by Gods Word Accurſed. Now he that will bring theſe ſpiritual Har<g ref="char:EOLhyphen"/>lots out of their lurking corners, into publick Churches and Temples, that ſpiritual Fornication may there o<g ref="char:EOLhyphen"/>penly, of all men and women, without ſhame be com<g ref="char:EOLhyphen"/>mitted with them, no doubt that perſon is Curſed of God, and twice Curſed, and all good and godly Men and Women will ſay, <hi>Amen,</hi> and their <hi>Amen</hi> will take effect alſo.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sam. Thomaſon.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
